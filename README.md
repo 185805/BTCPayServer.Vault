@@ -1,4 +1,4 @@
-[![NuGet](https://img.shields.io/nuget/v/BTCPayServer.Hwi.svg)](https://www.nuget.org/packages/BTCPayServer.Hwi) [![Build status](https://github.com/btcpayserver/BTCPayServer.Vault/workflows/CI/badge.svg)](https://github.com/btcpayserver/BTCPayServer.Vault/actions?query=workflow%3ACI)
+[![NuGet](https://img.shields.io/nuget/v/BTCPayServer.Hwi.svg)](https://www.nuget.org/packages/BTCPayServer.Hwi) [![Build status](https://github.com/btcpayserver/BTCPayServer.Vault/workflows/CI/badge.svg)][def]
 
 # BTCPayServer.Vault
 
@@ -92,3 +92,6 @@ This project is under MIT License.
 ## Special thanks
 
 Special thanks to [Wasabi Wallet](https://github.com/zkSNACKs/WalletWasabi), this code is based on their work, and as well to the bitcoin developers and [achow101](https://github.com/achow101) for the [HWI Project](https://github.com/bitcoin-core/HWI).
+
+
+[def]: https://github.com/btcpayserver/BTCPayServer.Vault/actions?query=workflow%3ACI
